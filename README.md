@@ -1,4 +1,3 @@
 # hello-world
 bug-free-box
-Hi humans!
-Whoami
+Hi humans!Whoami
